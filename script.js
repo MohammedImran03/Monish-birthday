@@ -1,7 +1,7 @@
 
 // Set the date we're counting down to
 
-var endDate = new Date("MAY 30, 2023 21:23:00").getTime();
+var endDate = new Date("JULY 25, 2023 00:00:00").getTime();
 
 // Update the count down every 1 second
 
